@@ -1,0 +1,5 @@
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\Domain\bin\Debug\Domain.dll
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\Domain\bin\Debug\Domain.pdb
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\Domain\obj\Debug\Domain.dll
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\Domain\obj\Debug\Domain.pdb
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

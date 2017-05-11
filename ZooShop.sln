@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooShop", "ZooShop\ZooShop.csproj", "{5A8971D9-7FB9-4C59-9E29-D770CC07E0DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{1651FDF4-7F8B-4F1F-8991-D3A4FFA8DB00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A8971D9-7FB9-4C59-9E29-D770CC07E0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8971D9-7FB9-4C59-9E29-D770CC07E0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8971D9-7FB9-4C59-9E29-D770CC07E0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8971D9-7FB9-4C59-9E29-D770CC07E0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1651FDF4-7F8B-4F1F-8991-D3A4FFA8DB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1651FDF4-7F8B-4F1F-8991-D3A4FFA8DB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1651FDF4-7F8B-4F1F-8991-D3A4FFA8DB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1651FDF4-7F8B-4F1F-8991-D3A4FFA8DB00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

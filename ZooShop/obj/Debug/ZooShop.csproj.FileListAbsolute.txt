@@ -1,0 +1,8 @@
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\ZooShop\bin\Debug\ZooShop.exe.config
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\ZooShop\bin\Debug\ZooShop.exe
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\ZooShop\bin\Debug\ZooShop.pdb
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\ZooShop\bin\Debug\Domain.dll
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\ZooShop\bin\Debug\Domain.pdb
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\ZooShop\obj\Debug\ZooShop.csprojResolveAssemblyReference.cache
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\ZooShop\obj\Debug\ZooShop.exe
+C:\Users\syner\documents\visual studio 2017\Projects\ZooShop\ZooShop\obj\Debug\ZooShop.pdb
